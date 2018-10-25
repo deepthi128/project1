@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="users">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="user" minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="user">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="age" type="xs:int">
+				</xs:element>
+				<xs:element name="city" type="xs:string">
+				</xs:element>
+				<xs:element name="country" type="xs:string">
+				</xs:element>
+				<xs:element name="currency" type="xs:string">
+				</xs:element>
+				<xs:element name="firstName" type="xs:string">
+				</xs:element>
+				<xs:element name="gender" type="xs:string">
+				</xs:element>
+				<xs:element name="id" type="xs:long">
+				</xs:element>
+				<xs:element name="lastName" type="xs:string">
+				</xs:element>
+				<xs:element name="userId" type="xs:string">
+				</xs:element>
+				<xs:element name="primaryEmail" type="xs:string">
+				</xs:element>
+				<xs:element name="secondaryEmail" type="xs:string">
+				</xs:element>
+				<xs:element name="mobilePhone" type="xs:string">
+				</xs:element>
+				<xs:element name="homePhone" type="xs:string">
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

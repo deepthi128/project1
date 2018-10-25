@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>1</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>NYC</city>
+				<country>USA</country>
+				<features>any features1</features>
+				<images />
+				<name>Westin1</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>2</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>NYC</city>
+				<country>USA</country>
+				<features>any features2</features>
+				<images />
+				<name>Westin2</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>3</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>NYC</city>
+				<country>USA</country>
+				<features>any features3</features>
+				<images />
+				<name>Westin3</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>4</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>NYC</city>
+				<country>USA</country>
+				<features>any features4</features>
+				<images />
+				<name>Westin4</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>5</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>NYC</city>
+				<country>USA</country>
+				<features>any features5</features>
+				<images />
+				<name>Westin5</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>6</id>
+			<noOfDays>7</noOfDays>
+			<rating>3</rating>
+			<resort>
+				<city>LA</city>
+				<country>USA</country>
+				<features>any features6</features>
+				<images />
+				<name>Westin6</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>7</id>
+			<noOfDays>7</noOfDays>
+			<rating>3</rating>
+			<resort>
+				<city>LA</city>
+				<country>USA</country>
+				<features>any features7</features>
+				<images />
+				<name>Westin7</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>8</id>
+			<noOfDays>7</noOfDays>
+			<rating>3</rating>
+			<resort>
+				<city>LA</city>
+				<country>USA</country>
+				<features>any features8</features>
+				<images />
+				<name>Westin8</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>9</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>LA</city>
+				<country>USA</country>
+				<features>any features9</features>
+				<images />
+				<name>Westin9</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+
+	<packageDetails>
+		<package>
+			<endDate>2016-08-07</endDate>
+			<flight>
+				<destinationArrivalTime>05:00PM</destinationArrivalTime>
+				<destinationDepartureTime>03:30PM</destinationDepartureTime>
+				<name>American Airlines</name>
+				<sourceArrivalTime>08:30PM</sourceArrivalTime>
+				<sourceDepartureTime>12:00PM</sourceDepartureTime>
+				<type>Economy</type>
+			</flight>
+			<id>10</id>
+			<noOfDays>7</noOfDays>
+			<rating>4</rating>
+			<resort>
+				<city>LA</city>
+				<country>USA</country>
+				<features>any features10</features>
+				<images />
+				<name>Westin10</name>
+				<state>NY</state>
+				<street>123 st</street>
+				<zipCode>12345</zipCode>
+			</resort>
+			<startDate>2016-08-01</startDate>
+			<totalCost>500</totalCost>
+		</package>
+	</packageDetails>
+</packages>

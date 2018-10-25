@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+	<user>
+		<age>20</age>
+		<city>New York</city>
+		<country>USA</country>
+		<currency>dollar</currency>
+		<firstName>John</firstName>
+		<gender>Male</gender>
+		<id>1</id>
+		<lastName>Smith</lastName>
+		<userId>user1@somedomain.com</userId>
+		<primaryEmail></primaryEmail>
+		<secondaryEmail></secondaryEmail>
+		<mobilePhone></mobilePhone>
+		<homePhone></homePhone>
+	</user>
+	<user>
+		<age>20</age>
+		<city>New York</city>
+		<country>USA</country>
+		<currency>dollar</currency>
+		<firstName>John</firstName>
+		<gender>Male</gender>
+		<id>2</id>
+		<lastName>Smith</lastName>
+		<userId>user2@somedomain.com</userId>
+		<primaryEmail></primaryEmail>
+		<secondaryEmail></secondaryEmail>
+		<mobilePhone></mobilePhone>
+		<homePhone></homePhone>
+	</user>
+	<user>
+		<age>20</age>
+		<city>New York</city>
+		<country>USA</country>
+		<currency>dollar</currency>
+		<firstName>John</firstName>
+		<gender>Male</gender>
+		<id>3</id>
+		<lastName>Smith</lastName>
+		<userId>user3@somedomain.com</userId>
+		<primaryEmail></primaryEmail>
+		<secondaryEmail></secondaryEmail>
+		<mobilePhone></mobilePhone>
+		<homePhone></homePhone>
+	</user>
+</users>

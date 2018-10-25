@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="packages">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="packageDetails" minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="packageDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="longDesc" type="xs:string" />
+				<xs:element ref="package" minOccurs="0" maxOccurs="1" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="package">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="briefDesc" type="xs:string" />
+				<xs:element name="duration" type="xs:string" />
+				<xs:element name="endDate" type="xs:date" />
+				<xs:element ref="flight" minOccurs="0" maxOccurs="1" />
+				<xs:element name="id" type="xs:int" />
+				<xs:element name="noOfDays" type="xs:int" />
+				<xs:element name="notes" type="xs:string" />
+				<xs:element name="price" type="xs:string" />
+				<xs:element name="rating" type="xs:int" />
+				<xs:element ref="resort" minOccurs="0" maxOccurs="1" />
+				<xs:element name="startDate" type="xs:date" />
+				<xs:element name="title" type="xs:string" />
+				<xs:element name="totalCost" type="xs:int" />
+				<xs:element name="validity" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="flight">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="destinationArrivalTime" type="xs:string" />
+				<xs:element name="destinationDepartureTime" type="xs:string" />
+				<xs:element name="name" type="xs:string" />
+				<xs:element name="sourceArrivalTime" type="xs:string" />
+				<xs:element name="sourceDepartureTime" type="xs:string" />
+				<xs:element name="type" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="resort">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="city" type="xs:string" />
+				<xs:element name="country" type="xs:string" />
+				<xs:element name="features" type="xs:string" />
+				<xs:element name="images" />
+				<xs:element name="name" type="xs:string" />
+				<xs:element name="rating" type="xs:string" />
+				<xs:element name="state" type="xs:string" />
+				<xs:element name="street" type="xs:string" />
+				<xs:element name="zipCode" type="xs:int" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
